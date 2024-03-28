@@ -42,8 +42,8 @@ exports.sendOtp = async (options) => {
         service: 'gmail',
         host: 'smtp.gmail.com',
         auth: {
-            user: 'abctien2003@gmail.com',
-            pass: 'opqqnnnczndqwnpl',
+            user: 'andrewleedev276@gmail.com',
+            pass: 'onskmmxrxizkwdqi',
         },
     });
     // 2) Define the email options
